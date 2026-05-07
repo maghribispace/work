@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "AntiGravity Mod",
+    "version": "1.20.1",
+    "description": "Adds gravity manipulation powers to your Minecraft experience. Walk on ceilings, fly without creative mode, and pull entities towards you.",
+    "image": "https://img.freepik.com/free-vector/gaming-logo-template_23-2148651362.jpg",
+    "download": "https://example.com/mod1.apk",
+    "category": "Physics",
+    "changelog": "- Added gravity boots\n- Fixed crash when teleporting\n- Improved performance on high-end devices",
+    "install_instructions": "1. Download the APK\n2. Open Minecraft Launcher\n3. Select the mod in the menu"
+  },
+  {
+    "id": 2,
+    "name": "Neon Swords",
+    "version": "1.19.4",
+    "description": "Glow in the dark weapons with specialized enchantments. High damage and unique visual effects.",
+    "image": "https://img.freepik.com/free-vector/futuristic-gaming-background_23-2148503799.jpg",
+    "download": "https://example.com/mod2.apk",
+    "category": "Combat",
+    "changelog": "- 5 new neon colors\n- Added fire enchantment",
+    "install_instructions": "Download and place in your mods folder."
+  },
+  {
+    "id": 3,
+    "name": "Cybernetic Armor",
+    "version": "1.21.0",
+    "description": "High-tech protection with built-in HUD and specialized abilities like night vision and speed boost.",
+    "image": "https://img.freepik.com/free-vector/gradient-cyberpunk-logo-template_23-2149153569.jpg",
+    "download": "https://example.com/mod3.apk",
+    "category": "Equipment",
+    "changelog": "- New HUD colors\n- Night vision duration increased",
+    "install_instructions": "Requires AntiGravity Core to run."
+  }
+]
