@@ -1,7 +1,7 @@
 {
   "version": "1.1.0",
-  "generated_at": 1793232212,
-  "base_url": "http://127.0.0.1:8000",
+  "generated_at": 1793233324,
+  "base_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main",
   "types": [
     {
       "key": "addons",
@@ -262,9 +262,9 @@
       "featured": true,
       "created_at": 1793142836000,
       "seed": 5941347,
-      "cover_url": "/media/covers/addons-0-0-56a022df4142.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-0-0-56a022df4142.png",
       "gallery": [
-        "/media/gallery/medieval-crates-913618fcca.jpg"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-0-0-56a022df4142.png"
       ],
       "download_url": null
     },
@@ -283,11 +283,11 @@
       "featured": false,
       "created_at": 1793139236000,
       "seed": 1438408620,
-      "cover_url": "/media/covers/addons-0-1-a6b0c5dc11c6.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-0-1-a6b0c5dc11c6.png",
       "gallery": [
-        "/api/v1/art/1438408637.png?w=800",
-        "/api/v1/art/1438408659.png?w=800",
-        "/api/v1/art/1438408676.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1438408637-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1438408659-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1438408676-800.png"
       ],
       "download_url": null
     },
@@ -306,11 +306,11 @@
       "featured": false,
       "created_at": 1793135636000,
       "seed": 832538951,
-      "cover_url": "/media/covers/addons-0-2-0b29c6ae6ae1.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-0-2-0b29c6ae6ae1.png",
       "gallery": [
-        "/api/v1/art/832538968.png?w=800",
-        "/api/v1/art/832538990.png?w=800",
-        "/api/v1/art/832539007.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-832538968-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-832538990-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-832539007-800.png"
       ],
       "download_url": null
     },
@@ -329,11 +329,11 @@
       "featured": false,
       "created_at": 1793132036000,
       "seed": 775738775,
-      "cover_url": "/media/covers/addons-0-3-492d6bb29519.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-0-3-492d6bb29519.png",
       "gallery": [
-        "/api/v1/art/775738792.png?w=800",
-        "/api/v1/art/775738814.png?w=800",
-        "/api/v1/art/775738831.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-775738792-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-775738814-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-775738831-800.png"
       ],
       "download_url": null
     },
@@ -352,11 +352,11 @@
       "featured": false,
       "created_at": 1793128436000,
       "seed": 1482556808,
-      "cover_url": "/media/covers/addons-1-0-b3df2f2a5389.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-1-0-b3df2f2a5389.png",
       "gallery": [
-        "/api/v1/art/1482556825.png?w=800",
-        "/api/v1/art/1482556847.png?w=800",
-        "/api/v1/art/1482556864.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1482556825-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1482556847-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1482556864-800.png"
       ],
       "download_url": null
     },
@@ -375,11 +375,11 @@
       "featured": false,
       "created_at": 1793124836000,
       "seed": 883039214,
-      "cover_url": "/media/covers/addons-1-1-55f6ed324bb5.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-1-1-55f6ed324bb5.png",
       "gallery": [
-        "/api/v1/art/883039231.png?w=800",
-        "/api/v1/art/883039253.png?w=800",
-        "/api/v1/art/883039270.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-883039231-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-883039253-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-883039270-800.png"
       ],
       "download_url": null
     },
@@ -398,11 +398,11 @@
       "featured": false,
       "created_at": 1793121236000,
       "seed": 352480287,
-      "cover_url": "/media/covers/addons-1-2-6a1c516a8d6e.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-1-2-6a1c516a8d6e.png",
       "gallery": [
-        "/api/v1/art/352480304.png?w=800",
-        "/api/v1/art/352480326.png?w=800",
-        "/api/v1/art/352480343.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-352480304-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-352480326-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-352480343-800.png"
       ],
       "download_url": null
     },
@@ -421,11 +421,11 @@
       "featured": false,
       "created_at": 1793117636000,
       "seed": 1877088805,
-      "cover_url": "/media/covers/addons-1-3-9f658a090be0.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-1-3-9f658a090be0.png",
       "gallery": [
-        "/api/v1/art/1877088822.png?w=800",
-        "/api/v1/art/1877088844.png?w=800",
-        "/api/v1/art/1877088861.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1877088822-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1877088844-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1877088861-800.png"
       ],
       "download_url": null
     },
@@ -444,11 +444,11 @@
       "featured": false,
       "created_at": 1793114036000,
       "seed": 1052435977,
-      "cover_url": "/media/covers/addons-2-0-2e8251b872ad.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-2-0-2e8251b872ad.png",
       "gallery": [
-        "/api/v1/art/1052435994.png?w=800",
-        "/api/v1/art/1052436016.png?w=800",
-        "/api/v1/art/1052436033.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1052435994-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1052436016-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1052436033-800.png"
       ],
       "download_url": null
     },
@@ -467,11 +467,11 @@
       "featured": true,
       "created_at": 1793110436000,
       "seed": 1082791470,
-      "cover_url": "/media/covers/addons-2-1-26b1cd9ac3e3.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-2-1-26b1cd9ac3e3.png",
       "gallery": [
-        "/api/v1/art/1082791487.png?w=800",
-        "/api/v1/art/1082791509.png?w=800",
-        "/api/v1/art/1082791526.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1082791487-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1082791509-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1082791526-800.png"
       ],
       "download_url": null
     },
@@ -490,11 +490,11 @@
       "featured": false,
       "created_at": 1793106836000,
       "seed": 1783447567,
-      "cover_url": "/media/covers/addons-2-2-7c93650db743.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-2-2-7c93650db743.png",
       "gallery": [
-        "/api/v1/art/1783447584.png?w=800",
-        "/api/v1/art/1783447606.png?w=800",
-        "/api/v1/art/1783447623.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1783447584-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1783447606-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1783447623-800.png"
       ],
       "download_url": null
     },
@@ -513,11 +513,11 @@
       "featured": false,
       "created_at": 1793103236000,
       "seed": 1924143591,
-      "cover_url": "/media/covers/addons-2-3-27a6298135fa.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-2-3-27a6298135fa.png",
       "gallery": [
-        "/api/v1/art/1924143608.png?w=800",
-        "/api/v1/art/1924143630.png?w=800",
-        "/api/v1/art/1924143647.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1924143608-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1924143630-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1924143647-800.png"
       ],
       "download_url": null
     },
@@ -536,11 +536,11 @@
       "featured": false,
       "created_at": 1793099636000,
       "seed": 343971632,
-      "cover_url": "/media/covers/addons-3-0-7097f7b4ca3d.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-3-0-7097f7b4ca3d.png",
       "gallery": [
-        "/api/v1/art/343971649.png?w=800",
-        "/api/v1/art/343971671.png?w=800",
-        "/api/v1/art/343971688.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-343971649-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-343971671-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-343971688-800.png"
       ],
       "download_url": null
     },
@@ -559,11 +559,11 @@
       "featured": false,
       "created_at": 1793096036000,
       "seed": 139635543,
-      "cover_url": "/media/covers/addons-3-1-b61e024a0dd4.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-3-1-b61e024a0dd4.png",
       "gallery": [
-        "/api/v1/art/139635560.png?w=800",
-        "/api/v1/art/139635582.png?w=800",
-        "/api/v1/art/139635599.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-139635560-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-139635582-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-139635599-800.png"
       ],
       "download_url": null
     },
@@ -582,11 +582,11 @@
       "featured": false,
       "created_at": 1793092436000,
       "seed": 828616071,
-      "cover_url": "/media/covers/addons-3-2-49014bfc9b95.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-3-2-49014bfc9b95.png",
       "gallery": [
-        "/api/v1/art/828616088.png?w=800",
-        "/api/v1/art/828616110.png?w=800",
-        "/api/v1/art/828616127.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-828616088-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-828616110-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-828616127-800.png"
       ],
       "download_url": null
     },
@@ -605,11 +605,11 @@
       "featured": false,
       "created_at": 1793088836000,
       "seed": 1968598959,
-      "cover_url": "/media/covers/addons-3-3-985273e8ad53.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-3-3-985273e8ad53.png",
       "gallery": [
-        "/api/v1/art/1968598976.png?w=800",
-        "/api/v1/art/1968598998.png?w=800",
-        "/api/v1/art/1968599015.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1968598976-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1968598998-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1968599015-800.png"
       ],
       "download_url": null
     },
@@ -628,11 +628,11 @@
       "featured": false,
       "created_at": 1793085236000,
       "seed": 48924053,
-      "cover_url": "/media/covers/addons-4-0-9dc94cae35a3.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-4-0-9dc94cae35a3.png",
       "gallery": [
-        "/api/v1/art/48924070.png?w=800",
-        "/api/v1/art/48924092.png?w=800",
-        "/api/v1/art/48924109.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-48924070-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-48924092-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-48924109-800.png"
       ],
       "download_url": null
     },
@@ -651,11 +651,11 @@
       "featured": false,
       "created_at": 1793081636000,
       "seed": 2082528948,
-      "cover_url": "/media/covers/addons-4-1-97b66737f2cb.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-4-1-97b66737f2cb.png",
       "gallery": [
-        "/api/v1/art/2082528965.png?w=800",
-        "/api/v1/art/2082528987.png?w=800",
-        "/api/v1/art/2082529004.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2082528965-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2082528987-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2082529004-800.png"
       ],
       "download_url": null
     },
@@ -674,11 +674,11 @@
       "featured": true,
       "created_at": 1793078036000,
       "seed": 569697767,
-      "cover_url": "/media/covers/addons-4-2-4d2aaec76beb.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-4-2-4d2aaec76beb.png",
       "gallery": [
-        "/api/v1/art/569697784.png?w=800",
-        "/api/v1/art/569697806.png?w=800",
-        "/api/v1/art/569697823.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-569697784-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-569697806-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-569697823-800.png"
       ],
       "download_url": null
     },
@@ -697,11 +697,11 @@
       "featured": false,
       "created_at": 1793074436000,
       "seed": 1722718741,
-      "cover_url": "/media/covers/addons-4-3-cdefb2162a88.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-4-3-cdefb2162a88.png",
       "gallery": [
-        "/api/v1/art/1722718758.png?w=800",
-        "/api/v1/art/1722718780.png?w=800",
-        "/api/v1/art/1722718797.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1722718758-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1722718780-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1722718797-800.png"
       ],
       "download_url": null
     },
@@ -720,11 +720,11 @@
       "featured": false,
       "created_at": 1793070836000,
       "seed": 760522783,
-      "cover_url": "/media/covers/addons-5-0-21cf18b49fdc.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-5-0-21cf18b49fdc.png",
       "gallery": [
-        "/api/v1/art/760522800.png?w=800",
-        "/api/v1/art/760522822.png?w=800",
-        "/api/v1/art/760522839.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-760522800-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-760522822-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-760522839-800.png"
       ],
       "download_url": null
     },
@@ -743,11 +743,11 @@
       "featured": false,
       "created_at": 1793067236000,
       "seed": 1431857496,
-      "cover_url": "/media/covers/addons-5-1-232403dfdb26.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-5-1-232403dfdb26.png",
       "gallery": [
-        "/api/v1/art/1431857513.png?w=800",
-        "/api/v1/art/1431857535.png?w=800",
-        "/api/v1/art/1431857552.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1431857513-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1431857535-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1431857552-800.png"
       ],
       "download_url": null
     },
@@ -766,11 +766,11 @@
       "featured": false,
       "created_at": 1793063636000,
       "seed": 637371330,
-      "cover_url": "/media/covers/addons-5-2-6bf47e478bc9.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-5-2-6bf47e478bc9.png",
       "gallery": [
-        "/api/v1/art/637371347.png?w=800",
-        "/api/v1/art/637371369.png?w=800",
-        "/api/v1/art/637371386.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-637371347-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-637371369-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-637371386-800.png"
       ],
       "download_url": null
     },
@@ -789,11 +789,11 @@
       "featured": false,
       "created_at": 1793060036000,
       "seed": 1399375984,
-      "cover_url": "/media/covers/addons-5-3-3a71d67691d5.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-5-3-3a71d67691d5.png",
       "gallery": [
-        "/api/v1/art/1399376001.png?w=800",
-        "/api/v1/art/1399376023.png?w=800",
-        "/api/v1/art/1399376040.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1399376001-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1399376023-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1399376040-800.png"
       ],
       "download_url": null
     },
@@ -812,11 +812,11 @@
       "featured": false,
       "created_at": 1793056436000,
       "seed": 1250477540,
-      "cover_url": "/media/covers/addons-6-0-9d1ab87a645f.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-6-0-9d1ab87a645f.png",
       "gallery": [
-        "/api/v1/art/1250477557.png?w=800",
-        "/api/v1/art/1250477579.png?w=800",
-        "/api/v1/art/1250477596.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1250477557-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1250477579-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1250477596-800.png"
       ],
       "download_url": null
     },
@@ -835,11 +835,11 @@
       "featured": false,
       "created_at": 1793052836000,
       "seed": 1607186700,
-      "cover_url": "/media/covers/addons-6-1-9af48e1d46ff.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-6-1-9af48e1d46ff.png",
       "gallery": [
-        "/api/v1/art/1607186717.png?w=800",
-        "/api/v1/art/1607186739.png?w=800",
-        "/api/v1/art/1607186756.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1607186717-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1607186739-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1607186756-800.png"
       ],
       "download_url": null
     },
@@ -858,11 +858,11 @@
       "featured": false,
       "created_at": 1793049236000,
       "seed": 1272488493,
-      "cover_url": "/media/covers/addons-6-2-869dcf2ad6a2.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-6-2-869dcf2ad6a2.png",
       "gallery": [
-        "/api/v1/art/1272488510.png?w=800",
-        "/api/v1/art/1272488532.png?w=800",
-        "/api/v1/art/1272488549.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1272488510-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1272488532-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1272488549-800.png"
       ],
       "download_url": null
     },
@@ -881,11 +881,11 @@
       "featured": true,
       "created_at": 1793045636000,
       "seed": 1619030328,
-      "cover_url": "/media/covers/addons-6-3-085601044038.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-6-3-085601044038.png",
       "gallery": [
-        "/api/v1/art/1619030345.png?w=800",
-        "/api/v1/art/1619030367.png?w=800",
-        "/api/v1/art/1619030384.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1619030345-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1619030367-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1619030384-800.png"
       ],
       "download_url": null
     },
@@ -904,11 +904,11 @@
       "featured": false,
       "created_at": 1793042036000,
       "seed": 513293811,
-      "cover_url": "/media/covers/addons-7-0-dd857885ef9e.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-7-0-dd857885ef9e.png",
       "gallery": [
-        "/api/v1/art/513293828.png?w=800",
-        "/api/v1/art/513293850.png?w=800",
-        "/api/v1/art/513293867.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-513293828-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-513293850-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-513293867-800.png"
       ],
       "download_url": null
     },
@@ -927,11 +927,11 @@
       "featured": false,
       "created_at": 1793038436000,
       "seed": 191210748,
-      "cover_url": "/media/covers/addons-7-1-0b881eeb1f89.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-7-1-0b881eeb1f89.png",
       "gallery": [
-        "/api/v1/art/191210765.png?w=800",
-        "/api/v1/art/191210787.png?w=800",
-        "/api/v1/art/191210804.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-191210765-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-191210787-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-191210804-800.png"
       ],
       "download_url": null
     },
@@ -950,11 +950,11 @@
       "featured": false,
       "created_at": 1793034836000,
       "seed": 1237626610,
-      "cover_url": "/media/covers/addons-7-2-7e991ff247a7.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-7-2-7e991ff247a7.png",
       "gallery": [
-        "/api/v1/art/1237626627.png?w=800",
-        "/api/v1/art/1237626649.png?w=800",
-        "/api/v1/art/1237626666.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1237626627-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1237626649-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1237626666-800.png"
       ],
       "download_url": null
     },
@@ -973,11 +973,11 @@
       "featured": false,
       "created_at": 1793031236000,
       "seed": 374302853,
-      "cover_url": "/media/covers/addons-7-3-e8267a62d9a7.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-7-3-e8267a62d9a7.png",
       "gallery": [
-        "/api/v1/art/374302870.png?w=800",
-        "/api/v1/art/374302892.png?w=800",
-        "/api/v1/art/374302909.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-374302870-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-374302892-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-374302909-800.png"
       ],
       "download_url": null
     },
@@ -996,11 +996,11 @@
       "featured": false,
       "created_at": 1793027636000,
       "seed": 810175085,
-      "cover_url": "/media/covers/addons-8-0-9d367119d628.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-8-0-9d367119d628.png",
       "gallery": [
-        "/api/v1/art/810175102.png?w=800",
-        "/api/v1/art/810175124.png?w=800",
-        "/api/v1/art/810175141.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-810175102-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-810175124-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-810175141-800.png"
       ],
       "download_url": null
     },
@@ -1019,11 +1019,11 @@
       "featured": false,
       "created_at": 1793024036000,
       "seed": 113666629,
-      "cover_url": "/media/covers/addons-8-1-f28dd418ce0e.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-8-1-f28dd418ce0e.png",
       "gallery": [
-        "/api/v1/art/113666646.png?w=800",
-        "/api/v1/art/113666668.png?w=800",
-        "/api/v1/art/113666685.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-113666646-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-113666668-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-113666685-800.png"
       ],
       "download_url": null
     },
@@ -1042,11 +1042,11 @@
       "featured": false,
       "created_at": 1793020436000,
       "seed": 651452593,
-      "cover_url": "/media/covers/addons-8-2-e21f9389d85c.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-8-2-e21f9389d85c.png",
       "gallery": [
-        "/api/v1/art/651452610.png?w=800",
-        "/api/v1/art/651452632.png?w=800",
-        "/api/v1/art/651452649.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-651452610-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-651452632-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-651452649-800.png"
       ],
       "download_url": null
     },
@@ -1065,11 +1065,11 @@
       "featured": false,
       "created_at": 1793016836000,
       "seed": 618483767,
-      "cover_url": "/media/covers/addons-8-3-e261990b70a6.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/addons-8-3-e261990b70a6.png",
       "gallery": [
-        "/api/v1/art/618483784.png?w=800",
-        "/api/v1/art/618483806.png?w=800",
-        "/api/v1/art/618483823.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-618483784-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-618483806-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-618483823-800.png"
       ],
       "download_url": null
     },
@@ -1088,11 +1088,11 @@
       "featured": true,
       "created_at": 1793013236000,
       "seed": 549295705,
-      "cover_url": "/media/covers/maps-0-0-d2cad4d8672a.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-0-0-d2cad4d8672a.png",
       "gallery": [
-        "/api/v1/art/549295722.png?w=800",
-        "/api/v1/art/549295744.png?w=800",
-        "/api/v1/art/549295761.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-549295722-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-549295744-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-549295761-800.png"
       ],
       "download_url": null
     },
@@ -1111,11 +1111,11 @@
       "featured": false,
       "created_at": 1793009636000,
       "seed": 1211103264,
-      "cover_url": "/media/covers/maps-0-1-532707bad10c.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-0-1-532707bad10c.png",
       "gallery": [
-        "/api/v1/art/1211103281.png?w=800",
-        "/api/v1/art/1211103303.png?w=800",
-        "/api/v1/art/1211103320.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1211103281-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1211103303-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1211103320-800.png"
       ],
       "download_url": null
     },
@@ -1134,11 +1134,11 @@
       "featured": false,
       "created_at": 1793006036000,
       "seed": 210540021,
-      "cover_url": "/media/covers/maps-0-2-101d0220c433.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-0-2-101d0220c433.png",
       "gallery": [
-        "/api/v1/art/210540038.png?w=800",
-        "/api/v1/art/210540060.png?w=800",
-        "/api/v1/art/210540077.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-210540038-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-210540060-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-210540077-800.png"
       ],
       "download_url": null
     },
@@ -1157,11 +1157,11 @@
       "featured": false,
       "created_at": 1793002436000,
       "seed": 1987265090,
-      "cover_url": "/media/covers/maps-0-3-51c0f7ff84ee.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-0-3-51c0f7ff84ee.png",
       "gallery": [
-        "/api/v1/art/1987265107.png?w=800",
-        "/api/v1/art/1987265129.png?w=800",
-        "/api/v1/art/1987265146.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1987265107-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1987265129-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1987265146-800.png"
       ],
       "download_url": null
     },
@@ -1180,11 +1180,11 @@
       "featured": false,
       "created_at": 1792998836000,
       "seed": 1624953798,
-      "cover_url": "/media/covers/maps-1-0-53c0481c14a3.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-1-0-53c0481c14a3.png",
       "gallery": [
-        "/api/v1/art/1624953815.png?w=800",
-        "/api/v1/art/1624953837.png?w=800",
-        "/api/v1/art/1624953854.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1624953815-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1624953837-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1624953854-800.png"
       ],
       "download_url": null
     },
@@ -1203,11 +1203,11 @@
       "featured": false,
       "created_at": 1792995236000,
       "seed": 382041983,
-      "cover_url": "/media/covers/maps-1-1-b38d08290d7b.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-1-1-b38d08290d7b.png",
       "gallery": [
-        "/api/v1/art/382042000.png?w=800",
-        "/api/v1/art/382042022.png?w=800",
-        "/api/v1/art/382042039.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-382042000-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-382042022-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-382042039-800.png"
       ],
       "download_url": null
     },
@@ -1226,11 +1226,11 @@
       "featured": false,
       "created_at": 1792991636000,
       "seed": 654483378,
-      "cover_url": "/media/covers/maps-1-2-54af2274b8ca.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-1-2-54af2274b8ca.png",
       "gallery": [
-        "/api/v1/art/654483395.png?w=800",
-        "/api/v1/art/654483417.png?w=800",
-        "/api/v1/art/654483434.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-654483395-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-654483417-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-654483434-800.png"
       ],
       "download_url": null
     },
@@ -1249,11 +1249,11 @@
       "featured": false,
       "created_at": 1792988036000,
       "seed": 1791459613,
-      "cover_url": "/media/covers/maps-1-3-a49a57fa7f2c.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-1-3-a49a57fa7f2c.png",
       "gallery": [
-        "/api/v1/art/1791459630.png?w=800",
-        "/api/v1/art/1791459652.png?w=800",
-        "/api/v1/art/1791459669.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1791459630-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1791459652-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1791459669-800.png"
       ],
       "download_url": null
     },
@@ -1272,11 +1272,11 @@
       "featured": false,
       "created_at": 1792984436000,
       "seed": 1144177369,
-      "cover_url": "/media/covers/maps-2-0-f4bb25408b12.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-2-0-f4bb25408b12.png",
       "gallery": [
-        "/api/v1/art/1144177386.png?w=800",
-        "/api/v1/art/1144177408.png?w=800",
-        "/api/v1/art/1144177425.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1144177386-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1144177408-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1144177425-800.png"
       ],
       "download_url": null
     },
@@ -1295,11 +1295,11 @@
       "featured": true,
       "created_at": 1792980836000,
       "seed": 41310702,
-      "cover_url": "/media/covers/maps-2-1-87dd377ff4a3.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-2-1-87dd377ff4a3.png",
       "gallery": [
-        "/api/v1/art/41310719.png?w=800",
-        "/api/v1/art/41310741.png?w=800",
-        "/api/v1/art/41310758.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-41310719-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-41310741-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-41310758-800.png"
       ],
       "download_url": null
     },
@@ -1318,11 +1318,11 @@
       "featured": false,
       "created_at": 1792977236000,
       "seed": 284603526,
-      "cover_url": "/media/covers/maps-2-2-6982c42aeafe.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-2-2-6982c42aeafe.png",
       "gallery": [
-        "/api/v1/art/284603543.png?w=800",
-        "/api/v1/art/284603565.png?w=800",
-        "/api/v1/art/284603582.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-284603543-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-284603565-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-284603582-800.png"
       ],
       "download_url": null
     },
@@ -1341,11 +1341,11 @@
       "featured": false,
       "created_at": 1792973636000,
       "seed": 1518997313,
-      "cover_url": "/media/covers/maps-2-3-ddc71cfd22b3.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-2-3-ddc71cfd22b3.png",
       "gallery": [
-        "/api/v1/art/1518997330.png?w=800",
-        "/api/v1/art/1518997352.png?w=800",
-        "/api/v1/art/1518997369.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1518997330-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1518997352-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1518997369-800.png"
       ],
       "download_url": null
     },
@@ -1364,11 +1364,11 @@
       "featured": false,
       "created_at": 1792970036000,
       "seed": 147192829,
-      "cover_url": "/media/covers/maps-3-0-69b060b2859a.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-3-0-69b060b2859a.png",
       "gallery": [
-        "/api/v1/art/147192846.png?w=800",
-        "/api/v1/art/147192868.png?w=800",
-        "/api/v1/art/147192885.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-147192846-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-147192868-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-147192885-800.png"
       ],
       "download_url": null
     },
@@ -1387,11 +1387,11 @@
       "featured": false,
       "created_at": 1792966436000,
       "seed": 1796231545,
-      "cover_url": "/media/covers/maps-3-1-c241ba735ddf.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-3-1-c241ba735ddf.png",
       "gallery": [
-        "/api/v1/art/1796231562.png?w=800",
-        "/api/v1/art/1796231584.png?w=800",
-        "/api/v1/art/1796231601.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1796231562-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1796231584-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1796231601-800.png"
       ],
       "download_url": null
     },
@@ -1410,11 +1410,11 @@
       "featured": false,
       "created_at": 1792962836000,
       "seed": 1700596030,
-      "cover_url": "/media/covers/maps-3-2-453e679e3df7.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-3-2-453e679e3df7.png",
       "gallery": [
-        "/api/v1/art/1700596047.png?w=800",
-        "/api/v1/art/1700596069.png?w=800",
-        "/api/v1/art/1700596086.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1700596047-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1700596069-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1700596086-800.png"
       ],
       "download_url": null
     },
@@ -1433,11 +1433,11 @@
       "featured": false,
       "created_at": 1792959236000,
       "seed": 1712190338,
-      "cover_url": "/media/covers/maps-3-3-e2b243c5991e.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-3-3-e2b243c5991e.png",
       "gallery": [
-        "/api/v1/art/1712190355.png?w=800",
-        "/api/v1/art/1712190377.png?w=800",
-        "/api/v1/art/1712190394.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1712190355-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1712190377-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1712190394-800.png"
       ],
       "download_url": null
     },
@@ -1456,11 +1456,11 @@
       "featured": false,
       "created_at": 1792955636000,
       "seed": 355143254,
-      "cover_url": "/media/covers/maps-4-0-4a223f7b84f5.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-4-0-4a223f7b84f5.png",
       "gallery": [
-        "/api/v1/art/355143271.png?w=800",
-        "/api/v1/art/355143293.png?w=800",
-        "/api/v1/art/355143310.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-355143271-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-355143293-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-355143310-800.png"
       ],
       "download_url": null
     },
@@ -1479,11 +1479,11 @@
       "featured": false,
       "created_at": 1792952036000,
       "seed": 2117843490,
-      "cover_url": "/media/covers/maps-4-1-108b24f461dc.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-4-1-108b24f461dc.png",
       "gallery": [
-        "/api/v1/art/2117843507.png?w=800",
-        "/api/v1/art/2117843529.png?w=800",
-        "/api/v1/art/2117843546.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2117843507-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2117843529-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2117843546-800.png"
       ],
       "download_url": null
     },
@@ -1502,11 +1502,11 @@
       "featured": true,
       "created_at": 1792948436000,
       "seed": 1589465163,
-      "cover_url": "/media/covers/maps-4-2-bd7fc2ed5f36.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-4-2-bd7fc2ed5f36.png",
       "gallery": [
-        "/api/v1/art/1589465180.png?w=800",
-        "/api/v1/art/1589465202.png?w=800",
-        "/api/v1/art/1589465219.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1589465180-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1589465202-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1589465219-800.png"
       ],
       "download_url": null
     },
@@ -1525,11 +1525,11 @@
       "featured": false,
       "created_at": 1792944836000,
       "seed": 1980524923,
-      "cover_url": "/media/covers/maps-4-3-f92d8f8f1d2b.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-4-3-f92d8f8f1d2b.png",
       "gallery": [
-        "/api/v1/art/1980524940.png?w=800",
-        "/api/v1/art/1980524962.png?w=800",
-        "/api/v1/art/1980524979.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1980524940-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1980524962-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1980524979-800.png"
       ],
       "download_url": null
     },
@@ -1548,11 +1548,11 @@
       "featured": false,
       "created_at": 1792941236000,
       "seed": 2007947700,
-      "cover_url": "/media/covers/maps-5-0-bb8a7911d462.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-5-0-bb8a7911d462.png",
       "gallery": [
-        "/api/v1/art/2007947717.png?w=800",
-        "/api/v1/art/2007947739.png?w=800",
-        "/api/v1/art/2007947756.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2007947717-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2007947739-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2007947756-800.png"
       ],
       "download_url": null
     },
@@ -1571,11 +1571,11 @@
       "featured": false,
       "created_at": 1792937636000,
       "seed": 1116794245,
-      "cover_url": "/media/covers/maps-5-1-fdea2f4b6716.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-5-1-fdea2f4b6716.png",
       "gallery": [
-        "/api/v1/art/1116794262.png?w=800",
-        "/api/v1/art/1116794284.png?w=800",
-        "/api/v1/art/1116794301.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1116794262-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1116794284-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1116794301-800.png"
       ],
       "download_url": null
     },
@@ -1594,11 +1594,11 @@
       "featured": false,
       "created_at": 1792934036000,
       "seed": 2103566463,
-      "cover_url": "/media/covers/maps-5-2-5eb7b04e9d95.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-5-2-5eb7b04e9d95.png",
       "gallery": [
-        "/api/v1/art/2103566480.png?w=800",
-        "/api/v1/art/2103566502.png?w=800",
-        "/api/v1/art/2103566519.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2103566480-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2103566502-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2103566519-800.png"
       ],
       "download_url": null
     },
@@ -1617,11 +1617,11 @@
       "featured": false,
       "created_at": 1792930436000,
       "seed": 1212885197,
-      "cover_url": "/media/covers/maps-5-3-3ccb069a1bbe.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-5-3-3ccb069a1bbe.png",
       "gallery": [
-        "/api/v1/art/1212885214.png?w=800",
-        "/api/v1/art/1212885236.png?w=800",
-        "/api/v1/art/1212885253.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1212885214-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1212885236-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1212885253-800.png"
       ],
       "download_url": null
     },
@@ -1640,11 +1640,11 @@
       "featured": false,
       "created_at": 1792926836000,
       "seed": 239889473,
-      "cover_url": "/media/covers/maps-6-0-07c9bff34035.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-6-0-07c9bff34035.png",
       "gallery": [
-        "/api/v1/art/239889490.png?w=800",
-        "/api/v1/art/239889512.png?w=800",
-        "/api/v1/art/239889529.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-239889490-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-239889512-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-239889529-800.png"
       ],
       "download_url": null
     },
@@ -1663,11 +1663,11 @@
       "featured": false,
       "created_at": 1792923236000,
       "seed": 1870470793,
-      "cover_url": "/media/covers/maps-6-1-74bcf49cec54.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-6-1-74bcf49cec54.png",
       "gallery": [
-        "/api/v1/art/1870470810.png?w=800",
-        "/api/v1/art/1870470832.png?w=800",
-        "/api/v1/art/1870470849.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1870470810-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1870470832-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1870470849-800.png"
       ],
       "download_url": null
     },
@@ -1686,11 +1686,11 @@
       "featured": false,
       "created_at": 1792919636000,
       "seed": 2096354407,
-      "cover_url": "/media/covers/maps-6-2-3270a5bd8c90.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-6-2-3270a5bd8c90.png",
       "gallery": [
-        "/api/v1/art/2096354424.png?w=800",
-        "/api/v1/art/2096354446.png?w=800",
-        "/api/v1/art/2096354463.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2096354424-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2096354446-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2096354463-800.png"
       ],
       "download_url": null
     },
@@ -1709,11 +1709,11 @@
       "featured": true,
       "created_at": 1792916036000,
       "seed": 2003235052,
-      "cover_url": "/media/covers/maps-6-3-0c9b51aa61ca.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-6-3-0c9b51aa61ca.png",
       "gallery": [
-        "/api/v1/art/2003235069.png?w=800",
-        "/api/v1/art/2003235091.png?w=800",
-        "/api/v1/art/2003235108.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2003235069-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2003235091-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2003235108-800.png"
       ],
       "download_url": null
     },
@@ -1732,11 +1732,11 @@
       "featured": false,
       "created_at": 1792912436000,
       "seed": 1044870635,
-      "cover_url": "/media/covers/maps-7-0-8fb08014df52.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-7-0-8fb08014df52.png",
       "gallery": [
-        "/api/v1/art/1044870652.png?w=800",
-        "/api/v1/art/1044870674.png?w=800",
-        "/api/v1/art/1044870691.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1044870652-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1044870674-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1044870691-800.png"
       ],
       "download_url": null
     },
@@ -1755,11 +1755,11 @@
       "featured": false,
       "created_at": 1792908836000,
       "seed": 2117557008,
-      "cover_url": "/media/covers/maps-7-1-e482c1971ed6.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-7-1-e482c1971ed6.png",
       "gallery": [
-        "/api/v1/art/2117557025.png?w=800",
-        "/api/v1/art/2117557047.png?w=800",
-        "/api/v1/art/2117557064.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2117557025-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2117557047-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2117557064-800.png"
       ],
       "download_url": null
     },
@@ -1778,11 +1778,11 @@
       "featured": false,
       "created_at": 1792905236000,
       "seed": 1715624343,
-      "cover_url": "/media/covers/maps-7-2-8113b71a4684.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-7-2-8113b71a4684.png",
       "gallery": [
-        "/api/v1/art/1715624360.png?w=800",
-        "/api/v1/art/1715624382.png?w=800",
-        "/api/v1/art/1715624399.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1715624360-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1715624382-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1715624399-800.png"
       ],
       "download_url": null
     },
@@ -1801,11 +1801,11 @@
       "featured": false,
       "created_at": 1792901636000,
       "seed": 764492791,
-      "cover_url": "/media/covers/maps-7-3-f072a239c93e.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/maps-7-3-f072a239c93e.png",
       "gallery": [
-        "/api/v1/art/764492808.png?w=800",
-        "/api/v1/art/764492830.png?w=800",
-        "/api/v1/art/764492847.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-764492808-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-764492830-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-764492847-800.png"
       ],
       "download_url": null
     },
@@ -1824,11 +1824,11 @@
       "featured": true,
       "created_at": 1792898036000,
       "seed": 1451414562,
-      "cover_url": "/media/covers/skins-0-0-7ce3660b674a.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-0-0-7ce3660b674a.png",
       "gallery": [
-        "/api/v1/art/1451414579.png?w=800",
-        "/api/v1/art/1451414601.png?w=800",
-        "/api/v1/art/1451414618.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1451414579-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1451414601-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1451414618-800.png"
       ],
       "download_url": null
     },
@@ -1847,11 +1847,11 @@
       "featured": false,
       "created_at": 1792894436000,
       "seed": 488809557,
-      "cover_url": "/media/covers/skins-0-1-2a1aeeb041e2.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-0-1-2a1aeeb041e2.png",
       "gallery": [
-        "/api/v1/art/488809574.png?w=800",
-        "/api/v1/art/488809596.png?w=800",
-        "/api/v1/art/488809613.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-488809574-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-488809596-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-488809613-800.png"
       ],
       "download_url": null
     },
@@ -1870,11 +1870,11 @@
       "featured": false,
       "created_at": 1792890836000,
       "seed": 1169858298,
-      "cover_url": "/media/covers/skins-0-2-4228f51ec96c.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-0-2-4228f51ec96c.png",
       "gallery": [
-        "/api/v1/art/1169858315.png?w=800",
-        "/api/v1/art/1169858337.png?w=800",
-        "/api/v1/art/1169858354.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1169858315-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1169858337-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1169858354-800.png"
       ],
       "download_url": null
     },
@@ -1893,11 +1893,11 @@
       "featured": false,
       "created_at": 1792887236000,
       "seed": 129741529,
-      "cover_url": "/media/covers/skins-0-3-938c6bde0e3a.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-0-3-938c6bde0e3a.png",
       "gallery": [
-        "/api/v1/art/129741546.png?w=800",
-        "/api/v1/art/129741568.png?w=800",
-        "/api/v1/art/129741585.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-129741546-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-129741568-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-129741585-800.png"
       ],
       "download_url": null
     },
@@ -1916,11 +1916,11 @@
       "featured": false,
       "created_at": 1792883636000,
       "seed": 1025777368,
-      "cover_url": "/media/covers/skins-1-0-c327a2d248cd.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-1-0-c327a2d248cd.png",
       "gallery": [
-        "/api/v1/art/1025777385.png?w=800",
-        "/api/v1/art/1025777407.png?w=800",
-        "/api/v1/art/1025777424.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1025777385-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1025777407-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1025777424-800.png"
       ],
       "download_url": null
     },
@@ -1939,11 +1939,11 @@
       "featured": false,
       "created_at": 1792880036000,
       "seed": 234691484,
-      "cover_url": "/media/covers/skins-1-1-49c22a8c1326.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-1-1-49c22a8c1326.png",
       "gallery": [
-        "/api/v1/art/234691501.png?w=800",
-        "/api/v1/art/234691523.png?w=800",
-        "/api/v1/art/234691540.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-234691501-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-234691523-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-234691540-800.png"
       ],
       "download_url": null
     },
@@ -1962,11 +1962,11 @@
       "featured": false,
       "created_at": 1792876436000,
       "seed": 500576723,
-      "cover_url": "/media/covers/skins-1-2-3dc3cd67ea76.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-1-2-3dc3cd67ea76.png",
       "gallery": [
-        "/api/v1/art/500576740.png?w=800",
-        "/api/v1/art/500576762.png?w=800",
-        "/api/v1/art/500576779.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-500576740-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-500576762-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-500576779-800.png"
       ],
       "download_url": null
     },
@@ -1985,11 +1985,11 @@
       "featured": false,
       "created_at": 1792872836000,
       "seed": 1969134755,
-      "cover_url": "/media/covers/skins-1-3-228d5a82a6f0.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-1-3-228d5a82a6f0.png",
       "gallery": [
-        "/api/v1/art/1969134772.png?w=800",
-        "/api/v1/art/1969134794.png?w=800",
-        "/api/v1/art/1969134811.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1969134772-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1969134794-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1969134811-800.png"
       ],
       "download_url": null
     },
@@ -2008,11 +2008,11 @@
       "featured": false,
       "created_at": 1792869236000,
       "seed": 187611463,
-      "cover_url": "/media/covers/skins-2-0-4e152c9090f6.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-2-0-4e152c9090f6.png",
       "gallery": [
-        "/api/v1/art/187611480.png?w=800",
-        "/api/v1/art/187611502.png?w=800",
-        "/api/v1/art/187611519.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-187611480-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-187611502-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-187611519-800.png"
       ],
       "download_url": null
     },
@@ -2031,11 +2031,11 @@
       "featured": true,
       "created_at": 1792865636000,
       "seed": 1974222177,
-      "cover_url": "/media/covers/skins-2-1-be94aedf0cf4.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-2-1-be94aedf0cf4.png",
       "gallery": [
-        "/api/v1/art/1974222194.png?w=800",
-        "/api/v1/art/1974222216.png?w=800",
-        "/api/v1/art/1974222233.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1974222194-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1974222216-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1974222233-800.png"
       ],
       "download_url": null
     },
@@ -2054,11 +2054,11 @@
       "featured": false,
       "created_at": 1792862036000,
       "seed": 670444963,
-      "cover_url": "/media/covers/skins-2-2-69f3ba271cba.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-2-2-69f3ba271cba.png",
       "gallery": [
-        "/api/v1/art/670444980.png?w=800",
-        "/api/v1/art/670445002.png?w=800",
-        "/api/v1/art/670445019.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-670444980-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-670445002-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-670445019-800.png"
       ],
       "download_url": null
     },
@@ -2077,11 +2077,11 @@
       "featured": false,
       "created_at": 1792858436000,
       "seed": 2089618353,
-      "cover_url": "/media/covers/skins-2-3-2411e97e0e9a.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-2-3-2411e97e0e9a.png",
       "gallery": [
-        "/api/v1/art/2089618370.png?w=800",
-        "/api/v1/art/2089618392.png?w=800",
-        "/api/v1/art/2089618409.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2089618370-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2089618392-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2089618409-800.png"
       ],
       "download_url": null
     },
@@ -2100,11 +2100,11 @@
       "featured": false,
       "created_at": 1792854836000,
       "seed": 1642686547,
-      "cover_url": "/media/covers/skins-3-0-e9ef3a6f43dd.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-3-0-e9ef3a6f43dd.png",
       "gallery": [
-        "/api/v1/art/1642686564.png?w=800",
-        "/api/v1/art/1642686586.png?w=800",
-        "/api/v1/art/1642686603.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1642686564-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1642686586-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1642686603-800.png"
       ],
       "download_url": null
     },
@@ -2123,11 +2123,11 @@
       "featured": false,
       "created_at": 1792851236000,
       "seed": 2132381326,
-      "cover_url": "/media/covers/skins-3-1-5033a973dc00.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-3-1-5033a973dc00.png",
       "gallery": [
-        "/api/v1/art/2132381343.png?w=800",
-        "/api/v1/art/2132381365.png?w=800",
-        "/api/v1/art/2132381382.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2132381343-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2132381365-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2132381382-800.png"
       ],
       "download_url": null
     },
@@ -2146,11 +2146,11 @@
       "featured": false,
       "created_at": 1792847636000,
       "seed": 1293752664,
-      "cover_url": "/media/covers/skins-3-2-7dbce1d0a0e9.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-3-2-7dbce1d0a0e9.png",
       "gallery": [
-        "/api/v1/art/1293752681.png?w=800",
-        "/api/v1/art/1293752703.png?w=800",
-        "/api/v1/art/1293752720.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1293752681-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1293752703-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1293752720-800.png"
       ],
       "download_url": null
     },
@@ -2169,11 +2169,11 @@
       "featured": false,
       "created_at": 1792844036000,
       "seed": 526349608,
-      "cover_url": "/media/covers/skins-3-3-edb8b2fbea1f.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-3-3-edb8b2fbea1f.png",
       "gallery": [
-        "/api/v1/art/526349625.png?w=800",
-        "/api/v1/art/526349647.png?w=800",
-        "/api/v1/art/526349664.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-526349625-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-526349647-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-526349664-800.png"
       ],
       "download_url": null
     },
@@ -2192,11 +2192,11 @@
       "featured": false,
       "created_at": 1792840436000,
       "seed": 1464045404,
-      "cover_url": "/media/covers/skins-4-0-2b589016bebc.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-4-0-2b589016bebc.png",
       "gallery": [
-        "/api/v1/art/1464045421.png?w=800",
-        "/api/v1/art/1464045443.png?w=800",
-        "/api/v1/art/1464045460.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1464045421-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1464045443-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1464045460-800.png"
       ],
       "download_url": null
     },
@@ -2215,11 +2215,11 @@
       "featured": false,
       "created_at": 1792836836000,
       "seed": 305022081,
-      "cover_url": "/media/covers/skins-4-1-72ef6ff9efc5.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-4-1-72ef6ff9efc5.png",
       "gallery": [
-        "/api/v1/art/305022098.png?w=800",
-        "/api/v1/art/305022120.png?w=800",
-        "/api/v1/art/305022137.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-305022098-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-305022120-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-305022137-800.png"
       ],
       "download_url": null
     },
@@ -2238,11 +2238,11 @@
       "featured": true,
       "created_at": 1792833236000,
       "seed": 277496689,
-      "cover_url": "/media/covers/skins-4-2-0dad6b5a1883.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-4-2-0dad6b5a1883.png",
       "gallery": [
-        "/api/v1/art/277496706.png?w=800",
-        "/api/v1/art/277496728.png?w=800",
-        "/api/v1/art/277496745.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-277496706-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-277496728-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-277496745-800.png"
       ],
       "download_url": null
     },
@@ -2261,11 +2261,11 @@
       "featured": false,
       "created_at": 1792829636000,
       "seed": 37537474,
-      "cover_url": "/media/covers/skins-4-3-aa7bed9346e8.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-4-3-aa7bed9346e8.png",
       "gallery": [
-        "/api/v1/art/37537491.png?w=800",
-        "/api/v1/art/37537513.png?w=800",
-        "/api/v1/art/37537530.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-37537491-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-37537513-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-37537530-800.png"
       ],
       "download_url": null
     },
@@ -2284,11 +2284,11 @@
       "featured": false,
       "created_at": 1792826036000,
       "seed": 42599279,
-      "cover_url": "/media/covers/skins-5-0-2de117599a5f.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-5-0-2de117599a5f.png",
       "gallery": [
-        "/api/v1/art/42599296.png?w=800",
-        "/api/v1/art/42599318.png?w=800",
-        "/api/v1/art/42599335.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-42599296-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-42599318-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-42599335-800.png"
       ],
       "download_url": null
     },
@@ -2307,11 +2307,11 @@
       "featured": false,
       "created_at": 1792822436000,
       "seed": 1350580548,
-      "cover_url": "/media/covers/skins-5-1-c55beb1854ed.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-5-1-c55beb1854ed.png",
       "gallery": [
-        "/api/v1/art/1350580565.png?w=800",
-        "/api/v1/art/1350580587.png?w=800",
-        "/api/v1/art/1350580604.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1350580565-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1350580587-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1350580604-800.png"
       ],
       "download_url": null
     },
@@ -2330,11 +2330,11 @@
       "featured": false,
       "created_at": 1792818836000,
       "seed": 433010651,
-      "cover_url": "/media/covers/skins-5-2-f75acb3210e8.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-5-2-f75acb3210e8.png",
       "gallery": [
-        "/api/v1/art/433010668.png?w=800",
-        "/api/v1/art/433010690.png?w=800",
-        "/api/v1/art/433010707.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-433010668-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-433010690-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-433010707-800.png"
       ],
       "download_url": null
     },
@@ -2353,11 +2353,11 @@
       "featured": false,
       "created_at": 1792815236000,
       "seed": 745113224,
-      "cover_url": "/media/covers/skins-5-3-bbba0ff9b8ea.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-5-3-bbba0ff9b8ea.png",
       "gallery": [
-        "/api/v1/art/745113241.png?w=800",
-        "/api/v1/art/745113263.png?w=800",
-        "/api/v1/art/745113280.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-745113241-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-745113263-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-745113280-800.png"
       ],
       "download_url": null
     },
@@ -2376,11 +2376,11 @@
       "featured": false,
       "created_at": 1792811636000,
       "seed": 742925257,
-      "cover_url": "/media/covers/skins-6-0-9f41011261e3.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-6-0-9f41011261e3.png",
       "gallery": [
-        "/api/v1/art/742925274.png?w=800",
-        "/api/v1/art/742925296.png?w=800",
-        "/api/v1/art/742925313.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-742925274-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-742925296-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-742925313-800.png"
       ],
       "download_url": null
     },
@@ -2399,11 +2399,11 @@
       "featured": false,
       "created_at": 1792808036000,
       "seed": 464429608,
-      "cover_url": "/media/covers/skins-6-1-e9ab022e5b35.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-6-1-e9ab022e5b35.png",
       "gallery": [
-        "/api/v1/art/464429625.png?w=800",
-        "/api/v1/art/464429647.png?w=800",
-        "/api/v1/art/464429664.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-464429625-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-464429647-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-464429664-800.png"
       ],
       "download_url": null
     },
@@ -2422,11 +2422,11 @@
       "featured": false,
       "created_at": 1792804436000,
       "seed": 1596920843,
-      "cover_url": "/media/covers/skins-6-2-2ddf53aaeea5.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-6-2-2ddf53aaeea5.png",
       "gallery": [
-        "/api/v1/art/1596920860.png?w=800",
-        "/api/v1/art/1596920882.png?w=800",
-        "/api/v1/art/1596920899.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1596920860-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1596920882-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1596920899-800.png"
       ],
       "download_url": null
     },
@@ -2445,11 +2445,11 @@
       "featured": true,
       "created_at": 1792800836000,
       "seed": 2001997767,
-      "cover_url": "/media/covers/skins-6-3-71f8f9094cf9.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-6-3-71f8f9094cf9.png",
       "gallery": [
-        "/api/v1/art/2001997784.png?w=800",
-        "/api/v1/art/2001997806.png?w=800",
-        "/api/v1/art/2001997823.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2001997784-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2001997806-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2001997823-800.png"
       ],
       "download_url": null
     },
@@ -2468,11 +2468,11 @@
       "featured": false,
       "created_at": 1792797236000,
       "seed": 594942685,
-      "cover_url": "/media/covers/skins-7-0-da0c8195715f.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-7-0-da0c8195715f.png",
       "gallery": [
-        "/api/v1/art/594942702.png?w=800",
-        "/api/v1/art/594942724.png?w=800",
-        "/api/v1/art/594942741.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-594942702-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-594942724-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-594942741-800.png"
       ],
       "download_url": null
     },
@@ -2491,11 +2491,11 @@
       "featured": false,
       "created_at": 1792793636000,
       "seed": 1456298047,
-      "cover_url": "/media/covers/skins-7-1-90040eab6eaa.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-7-1-90040eab6eaa.png",
       "gallery": [
-        "/api/v1/art/1456298064.png?w=800",
-        "/api/v1/art/1456298086.png?w=800",
-        "/api/v1/art/1456298103.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1456298064-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1456298086-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1456298103-800.png"
       ],
       "download_url": null
     },
@@ -2514,11 +2514,11 @@
       "featured": false,
       "created_at": 1792790036000,
       "seed": 912541852,
-      "cover_url": "/media/covers/skins-7-2-4c1526762ab4.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-7-2-4c1526762ab4.png",
       "gallery": [
-        "/api/v1/art/912541869.png?w=800",
-        "/api/v1/art/912541891.png?w=800",
-        "/api/v1/art/912541908.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-912541869-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-912541891-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-912541908-800.png"
       ],
       "download_url": null
     },
@@ -2537,11 +2537,11 @@
       "featured": false,
       "created_at": 1792786436000,
       "seed": 517691168,
-      "cover_url": "/media/covers/skins-7-3-7c3cd1a3fc9a.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-7-3-7c3cd1a3fc9a.png",
       "gallery": [
-        "/api/v1/art/517691185.png?w=800",
-        "/api/v1/art/517691207.png?w=800",
-        "/api/v1/art/517691224.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-517691185-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-517691207-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-517691224-800.png"
       ],
       "download_url": null
     },
@@ -2560,11 +2560,11 @@
       "featured": false,
       "created_at": 1792782836000,
       "seed": 2029177257,
-      "cover_url": "/media/covers/skins-8-0-f5ce1fea5ec5.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-8-0-f5ce1fea5ec5.png",
       "gallery": [
-        "/api/v1/art/2029177274.png?w=800",
-        "/api/v1/art/2029177296.png?w=800",
-        "/api/v1/art/2029177313.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2029177274-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2029177296-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2029177313-800.png"
       ],
       "download_url": null
     },
@@ -2583,11 +2583,11 @@
       "featured": false,
       "created_at": 1792779236000,
       "seed": 153551661,
-      "cover_url": "/media/covers/skins-8-1-091b8d536393.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-8-1-091b8d536393.png",
       "gallery": [
-        "/api/v1/art/153551678.png?w=800",
-        "/api/v1/art/153551700.png?w=800",
-        "/api/v1/art/153551717.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-153551678-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-153551700-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-153551717-800.png"
       ],
       "download_url": null
     },
@@ -2606,11 +2606,11 @@
       "featured": false,
       "created_at": 1792775636000,
       "seed": 371711708,
-      "cover_url": "/media/covers/skins-8-2-e54247066985.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-8-2-e54247066985.png",
       "gallery": [
-        "/api/v1/art/371711725.png?w=800",
-        "/api/v1/art/371711747.png?w=800",
-        "/api/v1/art/371711764.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-371711725-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-371711747-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-371711764-800.png"
       ],
       "download_url": null
     },
@@ -2629,11 +2629,11 @@
       "featured": false,
       "created_at": 1792772036000,
       "seed": 276959397,
-      "cover_url": "/media/covers/skins-8-3-28dc49458f9d.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-8-3-28dc49458f9d.png",
       "gallery": [
-        "/api/v1/art/276959414.png?w=800",
-        "/api/v1/art/276959436.png?w=800",
-        "/api/v1/art/276959453.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-276959414-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-276959436-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-276959453-800.png"
       ],
       "download_url": null
     },
@@ -2652,11 +2652,11 @@
       "featured": true,
       "created_at": 1792768436000,
       "seed": 96723960,
-      "cover_url": "/media/covers/skins-9-0-acf002b85be0.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-9-0-acf002b85be0.png",
       "gallery": [
-        "/api/v1/art/96723977.png?w=800",
-        "/api/v1/art/96723999.png?w=800",
-        "/api/v1/art/96724016.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-96723977-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-96723999-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-96724016-800.png"
       ],
       "download_url": null
     },
@@ -2675,11 +2675,11 @@
       "featured": false,
       "created_at": 1792764836000,
       "seed": 1768738884,
-      "cover_url": "/media/covers/skins-9-1-71addcbe2ff7.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-9-1-71addcbe2ff7.png",
       "gallery": [
-        "/api/v1/art/1768738901.png?w=800",
-        "/api/v1/art/1768738923.png?w=800",
-        "/api/v1/art/1768738940.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1768738901-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1768738923-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1768738940-800.png"
       ],
       "download_url": null
     },
@@ -2698,11 +2698,11 @@
       "featured": false,
       "created_at": 1792761236000,
       "seed": 1309072273,
-      "cover_url": "/media/covers/skins-9-2-ee8cd4016f29.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-9-2-ee8cd4016f29.png",
       "gallery": [
-        "/api/v1/art/1309072290.png?w=800",
-        "/api/v1/art/1309072312.png?w=800",
-        "/api/v1/art/1309072329.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1309072290-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1309072312-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1309072329-800.png"
       ],
       "download_url": null
     },
@@ -2721,11 +2721,11 @@
       "featured": false,
       "created_at": 1792757636000,
       "seed": 2074482892,
-      "cover_url": "/media/covers/skins-9-3-c9d6ebb1d662.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-9-3-c9d6ebb1d662.png",
       "gallery": [
-        "/api/v1/art/2074482909.png?w=800",
-        "/api/v1/art/2074482931.png?w=800",
-        "/api/v1/art/2074482948.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2074482909-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2074482931-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2074482948-800.png"
       ],
       "download_url": null
     },
@@ -2744,11 +2744,11 @@
       "featured": false,
       "created_at": 1792754036000,
       "seed": 1324140020,
-      "cover_url": "/media/covers/skins-10-0-4cc34050df6a.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-10-0-4cc34050df6a.png",
       "gallery": [
-        "/api/v1/art/1324140037.png?w=800",
-        "/api/v1/art/1324140059.png?w=800",
-        "/api/v1/art/1324140076.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1324140037-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1324140059-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1324140076-800.png"
       ],
       "download_url": null
     },
@@ -2767,11 +2767,11 @@
       "featured": false,
       "created_at": 1792750436000,
       "seed": 660556589,
-      "cover_url": "/media/covers/skins-10-1-145a1ccdf152.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-10-1-145a1ccdf152.png",
       "gallery": [
-        "/api/v1/art/660556606.png?w=800",
-        "/api/v1/art/660556628.png?w=800",
-        "/api/v1/art/660556645.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-660556606-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-660556628-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-660556645-800.png"
       ],
       "download_url": null
     },
@@ -2790,11 +2790,11 @@
       "featured": false,
       "created_at": 1792746836000,
       "seed": 377524279,
-      "cover_url": "/media/covers/skins-10-2-8f929157bc5b.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-10-2-8f929157bc5b.png",
       "gallery": [
-        "/api/v1/art/377524296.png?w=800",
-        "/api/v1/art/377524318.png?w=800",
-        "/api/v1/art/377524335.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-377524296-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-377524318-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-377524335-800.png"
       ],
       "download_url": null
     },
@@ -2813,11 +2813,11 @@
       "featured": false,
       "created_at": 1792743236000,
       "seed": 1368979525,
-      "cover_url": "/media/covers/skins-10-3-7a4be335ec32.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-10-3-7a4be335ec32.png",
       "gallery": [
-        "/api/v1/art/1368979542.png?w=800",
-        "/api/v1/art/1368979564.png?w=800",
-        "/api/v1/art/1368979581.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1368979542-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1368979564-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1368979581-800.png"
       ],
       "download_url": null
     },
@@ -2836,11 +2836,11 @@
       "featured": false,
       "created_at": 1792739636000,
       "seed": 22060222,
-      "cover_url": "/media/covers/skins-11-0-33302a330275.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-11-0-33302a330275.png",
       "gallery": [
-        "/api/v1/art/22060239.png?w=800",
-        "/api/v1/art/22060261.png?w=800",
-        "/api/v1/art/22060278.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-22060239-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-22060261-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-22060278-800.png"
       ],
       "download_url": null
     },
@@ -2859,11 +2859,11 @@
       "featured": true,
       "created_at": 1792736036000,
       "seed": 1425371951,
-      "cover_url": "/media/covers/skins-11-1-0b3c801f4f8b.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-11-1-0b3c801f4f8b.png",
       "gallery": [
-        "/api/v1/art/1425371968.png?w=800",
-        "/api/v1/art/1425371990.png?w=800",
-        "/api/v1/art/1425372007.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1425371968-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1425371990-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1425372007-800.png"
       ],
       "download_url": null
     },
@@ -2882,11 +2882,11 @@
       "featured": false,
       "created_at": 1792732436000,
       "seed": 1274867833,
-      "cover_url": "/media/covers/skins-11-2-3b00e275a659.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-11-2-3b00e275a659.png",
       "gallery": [
-        "/api/v1/art/1274867850.png?w=800",
-        "/api/v1/art/1274867872.png?w=800",
-        "/api/v1/art/1274867889.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1274867850-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1274867872-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1274867889-800.png"
       ],
       "download_url": null
     },
@@ -2905,11 +2905,11 @@
       "featured": false,
       "created_at": 1792728836000,
       "seed": 432557473,
-      "cover_url": "/media/covers/skins-11-3-e3b3f839ec59.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/skins-11-3-e3b3f839ec59.png",
       "gallery": [
-        "/api/v1/art/432557490.png?w=800",
-        "/api/v1/art/432557512.png?w=800",
-        "/api/v1/art/432557529.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-432557490-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-432557512-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-432557529-800.png"
       ],
       "download_url": null
     },
@@ -2928,11 +2928,11 @@
       "featured": true,
       "created_at": 1792725236000,
       "seed": 1294310248,
-      "cover_url": "/media/covers/textures-0-0-f2065b396832.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/textures-0-0-f2065b396832.png",
       "gallery": [
-        "/api/v1/art/1294310265.png?w=800",
-        "/api/v1/art/1294310287.png?w=800",
-        "/api/v1/art/1294310304.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1294310265-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1294310287-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1294310304-800.png"
       ],
       "download_url": null
     },
@@ -2951,11 +2951,11 @@
       "featured": false,
       "created_at": 1792721636000,
       "seed": 1577800936,
-      "cover_url": "/media/covers/textures-0-1-a85f1874c4f2.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/textures-0-1-a85f1874c4f2.png",
       "gallery": [
-        "/api/v1/art/1577800953.png?w=800",
-        "/api/v1/art/1577800975.png?w=800",
-        "/api/v1/art/1577800992.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1577800953-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1577800975-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1577800992-800.png"
       ],
       "download_url": null
     },
@@ -2974,11 +2974,11 @@
       "featured": false,
       "created_at": 1792718036000,
       "seed": 1882765037,
-      "cover_url": "/media/covers/textures-0-2-f7508dfeb1e6.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/textures-0-2-f7508dfeb1e6.png",
       "gallery": [
-        "/api/v1/art/1882765054.png?w=800",
-        "/api/v1/art/1882765076.png?w=800",
-        "/api/v1/art/1882765093.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1882765054-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1882765076-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1882765093-800.png"
       ],
       "download_url": null
     },
@@ -2997,11 +2997,11 @@
       "featured": false,
       "created_at": 1792714436000,
       "seed": 1713496471,
-      "cover_url": "/media/covers/textures-0-3-2c85defb7b57.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/textures-0-3-2c85defb7b57.png",
       "gallery": [
-        "/api/v1/art/1713496488.png?w=800",
-        "/api/v1/art/1713496510.png?w=800",
-        "/api/v1/art/1713496527.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1713496488-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1713496510-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1713496527-800.png"
       ],
       "download_url": null
     },
@@ -3020,11 +3020,11 @@
       "featured": false,
       "created_at": 1792710836000,
       "seed": 355994573,
-      "cover_url": "/media/covers/textures-1-0-8949671e8103.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/textures-1-0-8949671e8103.png",
       "gallery": [
-        "/api/v1/art/355994590.png?w=800",
-        "/api/v1/art/355994612.png?w=800",
-        "/api/v1/art/355994629.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-355994590-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-355994612-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-355994629-800.png"
       ],
       "download_url": null
     },
@@ -3043,11 +3043,11 @@
       "featured": false,
       "created_at": 1792707236000,
       "seed": 662868734,
-      "cover_url": "/media/covers/textures-1-1-e59b713b7a90.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/textures-1-1-e59b713b7a90.png",
       "gallery": [
-        "/api/v1/art/662868751.png?w=800",
-        "/api/v1/art/662868773.png?w=800",
-        "/api/v1/art/662868790.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-662868751-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-662868773-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-662868790-800.png"
       ],
       "download_url": null
     },
@@ -3066,11 +3066,11 @@
       "featured": false,
       "created_at": 1792703636000,
       "seed": 1499916047,
-      "cover_url": "/media/covers/textures-1-2-c32181337261.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/textures-1-2-c32181337261.png",
       "gallery": [
-        "/api/v1/art/1499916064.png?w=800",
-        "/api/v1/art/1499916086.png?w=800",
-        "/api/v1/art/1499916103.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1499916064-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1499916086-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1499916103-800.png"
       ],
       "download_url": null
     },
@@ -3089,11 +3089,11 @@
       "featured": false,
       "created_at": 1792700036000,
       "seed": 1204127668,
-      "cover_url": "/media/covers/textures-1-3-7db854526608.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/textures-1-3-7db854526608.png",
       "gallery": [
-        "/api/v1/art/1204127685.png?w=800",
-        "/api/v1/art/1204127707.png?w=800",
-        "/api/v1/art/1204127724.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1204127685-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1204127707-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1204127724-800.png"
       ],
       "download_url": null
     },
@@ -3112,11 +3112,11 @@
       "featured": false,
       "created_at": 1792696436000,
       "seed": 1563876282,
-      "cover_url": "/media/covers/textures-2-0-dff8013882ca.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/textures-2-0-dff8013882ca.png",
       "gallery": [
-        "/api/v1/art/1563876299.png?w=800",
-        "/api/v1/art/1563876321.png?w=800",
-        "/api/v1/art/1563876338.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1563876299-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1563876321-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1563876338-800.png"
       ],
       "download_url": null
     },
@@ -3135,11 +3135,11 @@
       "featured": true,
       "created_at": 1792692836000,
       "seed": 2110393098,
-      "cover_url": "/media/covers/textures-2-1-657834272c6e.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/textures-2-1-657834272c6e.png",
       "gallery": [
-        "/api/v1/art/2110393115.png?w=800",
-        "/api/v1/art/2110393137.png?w=800",
-        "/api/v1/art/2110393154.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2110393115-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2110393137-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2110393154-800.png"
       ],
       "download_url": null
     },
@@ -3158,11 +3158,11 @@
       "featured": false,
       "created_at": 1792689236000,
       "seed": 1087716462,
-      "cover_url": "/media/covers/textures-2-2-787ba2e32a03.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/textures-2-2-787ba2e32a03.png",
       "gallery": [
-        "/api/v1/art/1087716479.png?w=800",
-        "/api/v1/art/1087716501.png?w=800",
-        "/api/v1/art/1087716518.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1087716479-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1087716501-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1087716518-800.png"
       ],
       "download_url": null
     },
@@ -3181,11 +3181,11 @@
       "featured": false,
       "created_at": 1792685636000,
       "seed": 1213378808,
-      "cover_url": "/media/covers/textures-2-3-878060e4729e.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/textures-2-3-878060e4729e.png",
       "gallery": [
-        "/api/v1/art/1213378825.png?w=800",
-        "/api/v1/art/1213378847.png?w=800",
-        "/api/v1/art/1213378864.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1213378825-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1213378847-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1213378864-800.png"
       ],
       "download_url": null
     },
@@ -3204,11 +3204,11 @@
       "featured": true,
       "created_at": 1792682036000,
       "seed": 1351292388,
-      "cover_url": "/media/covers/seeds-0-0-ccbfbe663b2f.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/seeds-0-0-ccbfbe663b2f.png",
       "gallery": [
-        "/api/v1/art/1351292405.png?w=800",
-        "/api/v1/art/1351292427.png?w=800",
-        "/api/v1/art/1351292444.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1351292405-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1351292427-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1351292444-800.png"
       ],
       "download_url": null
     },
@@ -3227,11 +3227,11 @@
       "featured": false,
       "created_at": 1792678436000,
       "seed": 863292045,
-      "cover_url": "/media/covers/seeds-0-1-4c82c15498d2.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/seeds-0-1-4c82c15498d2.png",
       "gallery": [
-        "/api/v1/art/863292062.png?w=800",
-        "/api/v1/art/863292084.png?w=800",
-        "/api/v1/art/863292101.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-863292062-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-863292084-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-863292101-800.png"
       ],
       "download_url": null
     },
@@ -3250,11 +3250,11 @@
       "featured": false,
       "created_at": 1792674836000,
       "seed": 128485511,
-      "cover_url": "/media/covers/seeds-0-2-899a3eb35780.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/seeds-0-2-899a3eb35780.png",
       "gallery": [
-        "/api/v1/art/128485528.png?w=800",
-        "/api/v1/art/128485550.png?w=800",
-        "/api/v1/art/128485567.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-128485528-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-128485550-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-128485567-800.png"
       ],
       "download_url": null
     },
@@ -3273,11 +3273,11 @@
       "featured": false,
       "created_at": 1792671236000,
       "seed": 723503987,
-      "cover_url": "/media/covers/seeds-0-3-893b9f636081.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/seeds-0-3-893b9f636081.png",
       "gallery": [
-        "/api/v1/art/723504004.png?w=800",
-        "/api/v1/art/723504026.png?w=800",
-        "/api/v1/art/723504043.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-723504004-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-723504026-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-723504043-800.png"
       ],
       "download_url": null
     },
@@ -3296,11 +3296,11 @@
       "featured": false,
       "created_at": 1792667636000,
       "seed": 234549600,
-      "cover_url": "/media/covers/seeds-1-0-f222f4124363.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/seeds-1-0-f222f4124363.png",
       "gallery": [
-        "/api/v1/art/234549617.png?w=800",
-        "/api/v1/art/234549639.png?w=800",
-        "/api/v1/art/234549656.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-234549617-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-234549639-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-234549656-800.png"
       ],
       "download_url": null
     },
@@ -3319,11 +3319,11 @@
       "featured": false,
       "created_at": 1792664036000,
       "seed": 1590320693,
-      "cover_url": "/media/covers/seeds-1-1-c6ee6268db9e.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/seeds-1-1-c6ee6268db9e.png",
       "gallery": [
-        "/api/v1/art/1590320710.png?w=800",
-        "/api/v1/art/1590320732.png?w=800",
-        "/api/v1/art/1590320749.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1590320710-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1590320732-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1590320749-800.png"
       ],
       "download_url": null
     },
@@ -3342,11 +3342,11 @@
       "featured": false,
       "created_at": 1792660436000,
       "seed": 717155217,
-      "cover_url": "/media/covers/seeds-1-2-e7cdf1887024.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/seeds-1-2-e7cdf1887024.png",
       "gallery": [
-        "/api/v1/art/717155234.png?w=800",
-        "/api/v1/art/717155256.png?w=800",
-        "/api/v1/art/717155273.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-717155234-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-717155256-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-717155273-800.png"
       ],
       "download_url": null
     },
@@ -3365,11 +3365,11 @@
       "featured": false,
       "created_at": 1792656836000,
       "seed": 741204447,
-      "cover_url": "/media/covers/seeds-1-3-ac53ff2d5567.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/seeds-1-3-ac53ff2d5567.png",
       "gallery": [
-        "/api/v1/art/741204464.png?w=800",
-        "/api/v1/art/741204486.png?w=800",
-        "/api/v1/art/741204503.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-741204464-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-741204486-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-741204503-800.png"
       ],
       "download_url": null
     },
@@ -3388,11 +3388,11 @@
       "featured": false,
       "created_at": 1792653236000,
       "seed": 1119817179,
-      "cover_url": "/media/covers/seeds-2-0-1ab5bbaf4cf2.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/seeds-2-0-1ab5bbaf4cf2.png",
       "gallery": [
-        "/api/v1/art/1119817196.png?w=800",
-        "/api/v1/art/1119817218.png?w=800",
-        "/api/v1/art/1119817235.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1119817196-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1119817218-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1119817235-800.png"
       ],
       "download_url": null
     },
@@ -3411,11 +3411,11 @@
       "featured": true,
       "created_at": 1792649636000,
       "seed": 225195966,
-      "cover_url": "/media/covers/seeds-2-1-59de213820f2.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/seeds-2-1-59de213820f2.png",
       "gallery": [
-        "/api/v1/art/225195983.png?w=800",
-        "/api/v1/art/225196005.png?w=800",
-        "/api/v1/art/225196022.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-225195983-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-225196005-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-225196022-800.png"
       ],
       "download_url": null
     },
@@ -3434,11 +3434,11 @@
       "featured": false,
       "created_at": 1792646036000,
       "seed": 2013225793,
-      "cover_url": "/media/covers/seeds-2-2-15ea4bd43654.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/seeds-2-2-15ea4bd43654.png",
       "gallery": [
-        "/api/v1/art/2013225810.png?w=800",
-        "/api/v1/art/2013225832.png?w=800",
-        "/api/v1/art/2013225849.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2013225810-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2013225832-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2013225849-800.png"
       ],
       "download_url": null
     },
@@ -3457,11 +3457,11 @@
       "featured": false,
       "created_at": 1792642436000,
       "seed": 33009863,
-      "cover_url": "/media/covers/seeds-2-3-bc2fe82738e2.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/seeds-2-3-bc2fe82738e2.png",
       "gallery": [
-        "/api/v1/art/33009880.png?w=800",
-        "/api/v1/art/33009902.png?w=800",
-        "/api/v1/art/33009919.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-33009880-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-33009902-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-33009919-800.png"
       ],
       "download_url": null
     },
@@ -3480,11 +3480,11 @@
       "featured": false,
       "created_at": 1792638836000,
       "seed": 1198354282,
-      "cover_url": "/media/covers/seeds-3-0-aa727d8f095f.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/seeds-3-0-aa727d8f095f.png",
       "gallery": [
-        "/api/v1/art/1198354299.png?w=800",
-        "/api/v1/art/1198354321.png?w=800",
-        "/api/v1/art/1198354338.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1198354299-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1198354321-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1198354338-800.png"
       ],
       "download_url": null
     },
@@ -3503,11 +3503,11 @@
       "featured": false,
       "created_at": 1792635236000,
       "seed": 843834192,
-      "cover_url": "/media/covers/seeds-3-1-824a36e16298.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/seeds-3-1-824a36e16298.png",
       "gallery": [
-        "/api/v1/art/843834209.png?w=800",
-        "/api/v1/art/843834231.png?w=800",
-        "/api/v1/art/843834248.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-843834209-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-843834231-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-843834248-800.png"
       ],
       "download_url": null
     },
@@ -3526,11 +3526,11 @@
       "featured": false,
       "created_at": 1792631636000,
       "seed": 315367042,
-      "cover_url": "/media/covers/seeds-3-2-476f110a2bf4.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/seeds-3-2-476f110a2bf4.png",
       "gallery": [
-        "/api/v1/art/315367059.png?w=800",
-        "/api/v1/art/315367081.png?w=800",
-        "/api/v1/art/315367098.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-315367059-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-315367081-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-315367098-800.png"
       ],
       "download_url": null
     },
@@ -3549,11 +3549,11 @@
       "featured": false,
       "created_at": 1792628036000,
       "seed": 1244157349,
-      "cover_url": "/media/covers/seeds-3-3-1eb5d606eec7.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/seeds-3-3-1eb5d606eec7.png",
       "gallery": [
-        "/api/v1/art/1244157366.png?w=800",
-        "/api/v1/art/1244157388.png?w=800",
-        "/api/v1/art/1244157405.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1244157366-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1244157388-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1244157405-800.png"
       ],
       "download_url": null
     },
@@ -3572,11 +3572,11 @@
       "featured": false,
       "created_at": 1792624436000,
       "seed": 349942751,
-      "cover_url": "/media/covers/seeds-4-0-5dcfbfb020c1.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/seeds-4-0-5dcfbfb020c1.png",
       "gallery": [
-        "/api/v1/art/349942768.png?w=800",
-        "/api/v1/art/349942790.png?w=800",
-        "/api/v1/art/349942807.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-349942768-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-349942790-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-349942807-800.png"
       ],
       "download_url": null
     },
@@ -3595,11 +3595,11 @@
       "featured": false,
       "created_at": 1792620836000,
       "seed": 1675386209,
-      "cover_url": "/media/covers/seeds-4-1-bf0ee1350a1a.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/seeds-4-1-bf0ee1350a1a.png",
       "gallery": [
-        "/api/v1/art/1675386226.png?w=800",
-        "/api/v1/art/1675386248.png?w=800",
-        "/api/v1/art/1675386265.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1675386226-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1675386248-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1675386265-800.png"
       ],
       "download_url": null
     },
@@ -3618,11 +3618,11 @@
       "featured": true,
       "created_at": 1792617236000,
       "seed": 10755776,
-      "cover_url": "/media/covers/seeds-4-2-0ac54515565d.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/seeds-4-2-0ac54515565d.png",
       "gallery": [
-        "/api/v1/art/10755793.png?w=800",
-        "/api/v1/art/10755815.png?w=800",
-        "/api/v1/art/10755832.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-10755793-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-10755815-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-10755832-800.png"
       ],
       "download_url": null
     },
@@ -3641,11 +3641,11 @@
       "featured": false,
       "created_at": 1792613636000,
       "seed": 1549511393,
-      "cover_url": "/media/covers/seeds-4-3-d621e2b27c61.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/seeds-4-3-d621e2b27c61.png",
       "gallery": [
-        "/api/v1/art/1549511410.png?w=800",
-        "/api/v1/art/1549511432.png?w=800",
-        "/api/v1/art/1549511449.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1549511410-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1549511432-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1549511449-800.png"
       ],
       "download_url": null
     },
@@ -3664,11 +3664,11 @@
       "featured": true,
       "created_at": 1792610036000,
       "seed": 1832184769,
-      "cover_url": "/media/covers/buildings-0-0-ff6ad79fb2a6.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-0-0-ff6ad79fb2a6.png",
       "gallery": [
-        "/api/v1/art/1832184786.png?w=800",
-        "/api/v1/art/1832184808.png?w=800",
-        "/api/v1/art/1832184825.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1832184786-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1832184808-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1832184825-800.png"
       ],
       "download_url": null
     },
@@ -3687,11 +3687,11 @@
       "featured": false,
       "created_at": 1792606436000,
       "seed": 1807122018,
-      "cover_url": "/media/covers/buildings-0-1-2e9c1fd6371d.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-0-1-2e9c1fd6371d.png",
       "gallery": [
-        "/api/v1/art/1807122035.png?w=800",
-        "/api/v1/art/1807122057.png?w=800",
-        "/api/v1/art/1807122074.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1807122035-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1807122057-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1807122074-800.png"
       ],
       "download_url": null
     },
@@ -3710,11 +3710,11 @@
       "featured": false,
       "created_at": 1792602836000,
       "seed": 950591980,
-      "cover_url": "/media/covers/buildings-0-2-ef0dc6b541a8.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-0-2-ef0dc6b541a8.png",
       "gallery": [
-        "/api/v1/art/950591997.png?w=800",
-        "/api/v1/art/950592019.png?w=800",
-        "/api/v1/art/950592036.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-950591997-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-950592019-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-950592036-800.png"
       ],
       "download_url": null
     },
@@ -3733,11 +3733,11 @@
       "featured": false,
       "created_at": 1792599236000,
       "seed": 480251594,
-      "cover_url": "/media/covers/buildings-0-3-359c6101c0dc.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-0-3-359c6101c0dc.png",
       "gallery": [
-        "/api/v1/art/480251611.png?w=800",
-        "/api/v1/art/480251633.png?w=800",
-        "/api/v1/art/480251650.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-480251611-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-480251633-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-480251650-800.png"
       ],
       "download_url": null
     },
@@ -3756,11 +3756,11 @@
       "featured": false,
       "created_at": 1792595636000,
       "seed": 1165055458,
-      "cover_url": "/media/covers/buildings-1-0-5f0fbe352536.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-1-0-5f0fbe352536.png",
       "gallery": [
-        "/api/v1/art/1165055475.png?w=800",
-        "/api/v1/art/1165055497.png?w=800",
-        "/api/v1/art/1165055514.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1165055475-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1165055497-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1165055514-800.png"
       ],
       "download_url": null
     },
@@ -3779,11 +3779,11 @@
       "featured": false,
       "created_at": 1792592036000,
       "seed": 1401954510,
-      "cover_url": "/media/covers/buildings-1-1-bc57a4c76aa8.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-1-1-bc57a4c76aa8.png",
       "gallery": [
-        "/api/v1/art/1401954527.png?w=800",
-        "/api/v1/art/1401954549.png?w=800",
-        "/api/v1/art/1401954566.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1401954527-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1401954549-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1401954566-800.png"
       ],
       "download_url": null
     },
@@ -3802,11 +3802,11 @@
       "featured": false,
       "created_at": 1792588436000,
       "seed": 1245654879,
-      "cover_url": "/media/covers/buildings-1-2-d03bfaed4d1e.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-1-2-d03bfaed4d1e.png",
       "gallery": [
-        "/api/v1/art/1245654896.png?w=800",
-        "/api/v1/art/1245654918.png?w=800",
-        "/api/v1/art/1245654935.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1245654896-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1245654918-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1245654935-800.png"
       ],
       "download_url": null
     },
@@ -3825,11 +3825,11 @@
       "featured": false,
       "created_at": 1792584836000,
       "seed": 216118018,
-      "cover_url": "/media/covers/buildings-1-3-3087d7ce3c00.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-1-3-3087d7ce3c00.png",
       "gallery": [
-        "/api/v1/art/216118035.png?w=800",
-        "/api/v1/art/216118057.png?w=800",
-        "/api/v1/art/216118074.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-216118035-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-216118057-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-216118074-800.png"
       ],
       "download_url": null
     },
@@ -3848,11 +3848,11 @@
       "featured": false,
       "created_at": 1792581236000,
       "seed": 714128715,
-      "cover_url": "/media/covers/buildings-2-0-75a7b91de9fd.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-2-0-75a7b91de9fd.png",
       "gallery": [
-        "/api/v1/art/714128732.png?w=800",
-        "/api/v1/art/714128754.png?w=800",
-        "/api/v1/art/714128771.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-714128732-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-714128754-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-714128771-800.png"
       ],
       "download_url": null
     },
@@ -3871,11 +3871,11 @@
       "featured": true,
       "created_at": 1792577636000,
       "seed": 1415796333,
-      "cover_url": "/media/covers/buildings-2-1-286475a84874.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-2-1-286475a84874.png",
       "gallery": [
-        "/api/v1/art/1415796350.png?w=800",
-        "/api/v1/art/1415796372.png?w=800",
-        "/api/v1/art/1415796389.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1415796350-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1415796372-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1415796389-800.png"
       ],
       "download_url": null
     },
@@ -3894,11 +3894,11 @@
       "featured": false,
       "created_at": 1792574036000,
       "seed": 484430032,
-      "cover_url": "/media/covers/buildings-2-2-136a391c42de.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-2-2-136a391c42de.png",
       "gallery": [
-        "/api/v1/art/484430049.png?w=800",
-        "/api/v1/art/484430071.png?w=800",
-        "/api/v1/art/484430088.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-484430049-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-484430071-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-484430088-800.png"
       ],
       "download_url": null
     },
@@ -3917,11 +3917,11 @@
       "featured": false,
       "created_at": 1792570436000,
       "seed": 833793136,
-      "cover_url": "/media/covers/buildings-2-3-1f6de6a79cb5.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-2-3-1f6de6a79cb5.png",
       "gallery": [
-        "/api/v1/art/833793153.png?w=800",
-        "/api/v1/art/833793175.png?w=800",
-        "/api/v1/art/833793192.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-833793153-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-833793175-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-833793192-800.png"
       ],
       "download_url": null
     },
@@ -3940,11 +3940,11 @@
       "featured": false,
       "created_at": 1792566836000,
       "seed": 740400921,
-      "cover_url": "/media/covers/buildings-3-0-ee5597587e41.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-3-0-ee5597587e41.png",
       "gallery": [
-        "/api/v1/art/740400938.png?w=800",
-        "/api/v1/art/740400960.png?w=800",
-        "/api/v1/art/740400977.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-740400938-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-740400960-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-740400977-800.png"
       ],
       "download_url": null
     },
@@ -3963,11 +3963,11 @@
       "featured": false,
       "created_at": 1792563236000,
       "seed": 1002484315,
-      "cover_url": "/media/covers/buildings-3-1-11bb62db191b.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-3-1-11bb62db191b.png",
       "gallery": [
-        "/api/v1/art/1002484332.png?w=800",
-        "/api/v1/art/1002484354.png?w=800",
-        "/api/v1/art/1002484371.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1002484332-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1002484354-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1002484371-800.png"
       ],
       "download_url": null
     },
@@ -3986,11 +3986,11 @@
       "featured": false,
       "created_at": 1792559636000,
       "seed": 138135462,
-      "cover_url": "/media/covers/buildings-3-2-c9fbf6c3c55b.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-3-2-c9fbf6c3c55b.png",
       "gallery": [
-        "/api/v1/art/138135479.png?w=800",
-        "/api/v1/art/138135501.png?w=800",
-        "/api/v1/art/138135518.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-138135479-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-138135501-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-138135518-800.png"
       ],
       "download_url": null
     },
@@ -4009,11 +4009,11 @@
       "featured": false,
       "created_at": 1792556036000,
       "seed": 269868677,
-      "cover_url": "/media/covers/buildings-3-3-9144ddfd0eea.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-3-3-9144ddfd0eea.png",
       "gallery": [
-        "/api/v1/art/269868694.png?w=800",
-        "/api/v1/art/269868716.png?w=800",
-        "/api/v1/art/269868733.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-269868694-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-269868716-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-269868733-800.png"
       ],
       "download_url": null
     },
@@ -4032,11 +4032,11 @@
       "featured": false,
       "created_at": 1792552436000,
       "seed": 739429308,
-      "cover_url": "/media/covers/buildings-4-0-21df739aa2aa.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-4-0-21df739aa2aa.png",
       "gallery": [
-        "/api/v1/art/739429325.png?w=800",
-        "/api/v1/art/739429347.png?w=800",
-        "/api/v1/art/739429364.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-739429325-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-739429347-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-739429364-800.png"
       ],
       "download_url": null
     },
@@ -4055,11 +4055,11 @@
       "featured": false,
       "created_at": 1792548836000,
       "seed": 567852672,
-      "cover_url": "/media/covers/buildings-4-1-b01a5ff613d9.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-4-1-b01a5ff613d9.png",
       "gallery": [
-        "/api/v1/art/567852689.png?w=800",
-        "/api/v1/art/567852711.png?w=800",
-        "/api/v1/art/567852728.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-567852689-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-567852711-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-567852728-800.png"
       ],
       "download_url": null
     },
@@ -4078,11 +4078,11 @@
       "featured": true,
       "created_at": 1792545236000,
       "seed": 1682085250,
-      "cover_url": "/media/covers/buildings-4-2-9927080e5250.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-4-2-9927080e5250.png",
       "gallery": [
-        "/api/v1/art/1682085267.png?w=800",
-        "/api/v1/art/1682085289.png?w=800",
-        "/api/v1/art/1682085306.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1682085267-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1682085289-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1682085306-800.png"
       ],
       "download_url": null
     },
@@ -4101,11 +4101,11 @@
       "featured": false,
       "created_at": 1792541636000,
       "seed": 228929397,
-      "cover_url": "/media/covers/buildings-4-3-93e7452cfa05.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-4-3-93e7452cfa05.png",
       "gallery": [
-        "/api/v1/art/228929414.png?w=800",
-        "/api/v1/art/228929436.png?w=800",
-        "/api/v1/art/228929453.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-228929414-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-228929436-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-228929453-800.png"
       ],
       "download_url": null
     },
@@ -4124,11 +4124,11 @@
       "featured": false,
       "created_at": 1792538036000,
       "seed": 571331582,
-      "cover_url": "/media/covers/buildings-5-0-638f01e23532.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-5-0-638f01e23532.png",
       "gallery": [
-        "/api/v1/art/571331599.png?w=800",
-        "/api/v1/art/571331621.png?w=800",
-        "/api/v1/art/571331638.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-571331599-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-571331621-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-571331638-800.png"
       ],
       "download_url": null
     },
@@ -4147,11 +4147,11 @@
       "featured": false,
       "created_at": 1792534436000,
       "seed": 1932776835,
-      "cover_url": "/media/covers/buildings-5-1-882cffae8a69.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-5-1-882cffae8a69.png",
       "gallery": [
-        "/api/v1/art/1932776852.png?w=800",
-        "/api/v1/art/1932776874.png?w=800",
-        "/api/v1/art/1932776891.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1932776852-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1932776874-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1932776891-800.png"
       ],
       "download_url": null
     },
@@ -4170,11 +4170,11 @@
       "featured": false,
       "created_at": 1792530836000,
       "seed": 716985881,
-      "cover_url": "/media/covers/buildings-5-2-d0da1d151e2c.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-5-2-d0da1d151e2c.png",
       "gallery": [
-        "/api/v1/art/716985898.png?w=800",
-        "/api/v1/art/716985920.png?w=800",
-        "/api/v1/art/716985937.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-716985898-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-716985920-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-716985937-800.png"
       ],
       "download_url": null
     },
@@ -4193,11 +4193,11 @@
       "featured": false,
       "created_at": 1792527236000,
       "seed": 1744794866,
-      "cover_url": "/media/covers/buildings-5-3-1484d6c60f41.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-5-3-1484d6c60f41.png",
       "gallery": [
-        "/api/v1/art/1744794883.png?w=800",
-        "/api/v1/art/1744794905.png?w=800",
-        "/api/v1/art/1744794922.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1744794883-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1744794905-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1744794922-800.png"
       ],
       "download_url": null
     },
@@ -4216,11 +4216,11 @@
       "featured": false,
       "created_at": 1792523636000,
       "seed": 2011279565,
-      "cover_url": "/media/covers/buildings-6-0-e841aa5ed043.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-6-0-e841aa5ed043.png",
       "gallery": [
-        "/api/v1/art/2011279582.png?w=800",
-        "/api/v1/art/2011279604.png?w=800",
-        "/api/v1/art/2011279621.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2011279582-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2011279604-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2011279621-800.png"
       ],
       "download_url": null
     },
@@ -4239,11 +4239,11 @@
       "featured": false,
       "created_at": 1792520036000,
       "seed": 1086582010,
-      "cover_url": "/media/covers/buildings-6-1-6b1c2bd7a7cd.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-6-1-6b1c2bd7a7cd.png",
       "gallery": [
-        "/api/v1/art/1086582027.png?w=800",
-        "/api/v1/art/1086582049.png?w=800",
-        "/api/v1/art/1086582066.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1086582027-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1086582049-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1086582066-800.png"
       ],
       "download_url": null
     },
@@ -4262,11 +4262,11 @@
       "featured": false,
       "created_at": 1792516436000,
       "seed": 1077924143,
-      "cover_url": "/media/covers/buildings-6-2-c6b39024d2e8.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-6-2-c6b39024d2e8.png",
       "gallery": [
-        "/api/v1/art/1077924160.png?w=800",
-        "/api/v1/art/1077924182.png?w=800",
-        "/api/v1/art/1077924199.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1077924160-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1077924182-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1077924199-800.png"
       ],
       "download_url": null
     },
@@ -4285,11 +4285,11 @@
       "featured": true,
       "created_at": 1792512836000,
       "seed": 1282225266,
-      "cover_url": "/media/covers/buildings-6-3-fe55822ea910.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-6-3-fe55822ea910.png",
       "gallery": [
-        "/api/v1/art/1282225283.png?w=800",
-        "/api/v1/art/1282225305.png?w=800",
-        "/api/v1/art/1282225322.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1282225283-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1282225305-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1282225322-800.png"
       ],
       "download_url": null
     },
@@ -4308,11 +4308,11 @@
       "featured": false,
       "created_at": 1792509236000,
       "seed": 1839549777,
-      "cover_url": "/media/covers/buildings-7-0-0f06779fffdf.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-7-0-0f06779fffdf.png",
       "gallery": [
-        "/api/v1/art/1839549794.png?w=800",
-        "/api/v1/art/1839549816.png?w=800",
-        "/api/v1/art/1839549833.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1839549794-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1839549816-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1839549833-800.png"
       ],
       "download_url": null
     },
@@ -4331,11 +4331,11 @@
       "featured": false,
       "created_at": 1792505636000,
       "seed": 596448864,
-      "cover_url": "/media/covers/buildings-7-1-78241fa3f0da.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-7-1-78241fa3f0da.png",
       "gallery": [
-        "/api/v1/art/596448881.png?w=800",
-        "/api/v1/art/596448903.png?w=800",
-        "/api/v1/art/596448920.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-596448881-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-596448903-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-596448920-800.png"
       ],
       "download_url": null
     },
@@ -4354,11 +4354,11 @@
       "featured": false,
       "created_at": 1792502036000,
       "seed": 772179513,
-      "cover_url": "/media/covers/buildings-7-2-21170a10503f.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-7-2-21170a10503f.png",
       "gallery": [
-        "/api/v1/art/772179530.png?w=800",
-        "/api/v1/art/772179552.png?w=800",
-        "/api/v1/art/772179569.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-772179530-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-772179552-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-772179569-800.png"
       ],
       "download_url": null
     },
@@ -4377,11 +4377,11 @@
       "featured": false,
       "created_at": 1792498436000,
       "seed": 653092650,
-      "cover_url": "/media/covers/buildings-7-3-dd13c177ce2d.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-7-3-dd13c177ce2d.png",
       "gallery": [
-        "/api/v1/art/653092667.png?w=800",
-        "/api/v1/art/653092689.png?w=800",
-        "/api/v1/art/653092706.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-653092667-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-653092689-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-653092706-800.png"
       ],
       "download_url": null
     },
@@ -4400,11 +4400,11 @@
       "featured": false,
       "created_at": 1792494836000,
       "seed": 940790889,
-      "cover_url": "/media/covers/buildings-8-0-ef0ce5838f3c.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-8-0-ef0ce5838f3c.png",
       "gallery": [
-        "/api/v1/art/940790906.png?w=800",
-        "/api/v1/art/940790928.png?w=800",
-        "/api/v1/art/940790945.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-940790906-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-940790928-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-940790945-800.png"
       ],
       "download_url": null
     },
@@ -4423,11 +4423,11 @@
       "featured": false,
       "created_at": 1792491236000,
       "seed": 318162112,
-      "cover_url": "/media/covers/buildings-8-1-a0a10d5ee1fa.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-8-1-a0a10d5ee1fa.png",
       "gallery": [
-        "/api/v1/art/318162129.png?w=800",
-        "/api/v1/art/318162151.png?w=800",
-        "/api/v1/art/318162168.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-318162129-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-318162151-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-318162168-800.png"
       ],
       "download_url": null
     },
@@ -4446,11 +4446,11 @@
       "featured": false,
       "created_at": 1792487636000,
       "seed": 1947505360,
-      "cover_url": "/media/covers/buildings-8-2-363f6528bd34.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-8-2-363f6528bd34.png",
       "gallery": [
-        "/api/v1/art/1947505377.png?w=800",
-        "/api/v1/art/1947505399.png?w=800",
-        "/api/v1/art/1947505416.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1947505377-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1947505399-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1947505416-800.png"
       ],
       "download_url": null
     },
@@ -4469,11 +4469,11 @@
       "featured": false,
       "created_at": 1792484036000,
       "seed": 2105062136,
-      "cover_url": "/media/covers/buildings-8-3-4a8c1e3ba9e1.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-8-3-4a8c1e3ba9e1.png",
       "gallery": [
-        "/api/v1/art/2105062153.png?w=800",
-        "/api/v1/art/2105062175.png?w=800",
-        "/api/v1/art/2105062192.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2105062153-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2105062175-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2105062192-800.png"
       ],
       "download_url": null
     },
@@ -4492,11 +4492,11 @@
       "featured": true,
       "created_at": 1792480436000,
       "seed": 928700487,
-      "cover_url": "/media/covers/buildings-9-0-8d92413c8439.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-9-0-8d92413c8439.png",
       "gallery": [
-        "/api/v1/art/928700504.png?w=800",
-        "/api/v1/art/928700526.png?w=800",
-        "/api/v1/art/928700543.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-928700504-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-928700526-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-928700543-800.png"
       ],
       "download_url": null
     },
@@ -4515,11 +4515,11 @@
       "featured": false,
       "created_at": 1792476836000,
       "seed": 951815783,
-      "cover_url": "/media/covers/buildings-9-1-7cd29eb9a474.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-9-1-7cd29eb9a474.png",
       "gallery": [
-        "/api/v1/art/951815800.png?w=800",
-        "/api/v1/art/951815822.png?w=800",
-        "/api/v1/art/951815839.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-951815800-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-951815822-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-951815839-800.png"
       ],
       "download_url": null
     },
@@ -4538,11 +4538,11 @@
       "featured": false,
       "created_at": 1792473236000,
       "seed": 188557280,
-      "cover_url": "/media/covers/buildings-9-2-68866f717998.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-9-2-68866f717998.png",
       "gallery": [
-        "/api/v1/art/188557297.png?w=800",
-        "/api/v1/art/188557319.png?w=800",
-        "/api/v1/art/188557336.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-188557297-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-188557319-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-188557336-800.png"
       ],
       "download_url": null
     },
@@ -4561,11 +4561,11 @@
       "featured": false,
       "created_at": 1792469636000,
       "seed": 2050728266,
-      "cover_url": "/media/covers/buildings-9-3-3417f168493e.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-9-3-3417f168493e.png",
       "gallery": [
-        "/api/v1/art/2050728283.png?w=800",
-        "/api/v1/art/2050728305.png?w=800",
-        "/api/v1/art/2050728322.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2050728283-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2050728305-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-2050728322-800.png"
       ],
       "download_url": null
     },
@@ -4584,11 +4584,11 @@
       "featured": false,
       "created_at": 1792466036000,
       "seed": 1282581661,
-      "cover_url": "/media/covers/buildings-10-0-89203e5d8ef6.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-10-0-89203e5d8ef6.png",
       "gallery": [
-        "/api/v1/art/1282581678.png?w=800",
-        "/api/v1/art/1282581700.png?w=800",
-        "/api/v1/art/1282581717.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1282581678-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1282581700-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1282581717-800.png"
       ],
       "download_url": null
     },
@@ -4607,11 +4607,11 @@
       "featured": false,
       "created_at": 1792462436000,
       "seed": 1171230968,
-      "cover_url": "/media/covers/buildings-10-1-1a56fa2c0c9b.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-10-1-1a56fa2c0c9b.png",
       "gallery": [
-        "/api/v1/art/1171230985.png?w=800",
-        "/api/v1/art/1171231007.png?w=800",
-        "/api/v1/art/1171231024.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1171230985-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1171231007-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1171231024-800.png"
       ],
       "download_url": null
     },
@@ -4630,11 +4630,11 @@
       "featured": false,
       "created_at": 1792458836000,
       "seed": 912658478,
-      "cover_url": "/media/covers/buildings-10-2-59234f4bbbc4.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-10-2-59234f4bbbc4.png",
       "gallery": [
-        "/api/v1/art/912658495.png?w=800",
-        "/api/v1/art/912658517.png?w=800",
-        "/api/v1/art/912658534.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-912658495-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-912658517-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-912658534-800.png"
       ],
       "download_url": null
     },
@@ -4653,13 +4653,14 @@
       "featured": false,
       "created_at": 1792455236000,
       "seed": 1196890475,
-      "cover_url": "/media/covers/buildings-10-3-adacfdba16a6.png",
+      "cover_url": "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/covers/buildings-10-3-adacfdba16a6.png",
       "gallery": [
-        "/api/v1/art/1196890492.png?w=800",
-        "/api/v1/art/1196890514.png?w=800",
-        "/api/v1/art/1196890531.png?w=800"
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1196890492-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1196890514-800.png",
+        "https://raw.githubusercontent.com/maghribispace/work/refs/heads/main/media/gallery/art-1196890531-800.png"
       ],
       "download_url": null
     }
-  ]
+  ],
+  "static_bundle": true
 }
